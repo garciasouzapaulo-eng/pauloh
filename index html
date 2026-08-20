@@ -3,7 +3,7 @@ Claro. Se você quer uma página web básica, o arquivo index.html pode ser assi
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Minha Página</title>
@@ -15,6 +15,3 @@ Claro. Se você quer uma página web básica, o arquivo index.html pode ser assi
 
 </body>
 </html>
-
-
-Salve esse código com o nome index.html e abra o arquivo no navegador.
